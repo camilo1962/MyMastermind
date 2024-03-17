@@ -1,7 +1,7 @@
 # Mastermind
-![](https://github.com/camilo1962/Triples/blob/main/Assets/ShootHootKit/balonTricolor.png)
+![](https://github.com/camilo1962/MyMastermind/blob/main/Assets/Sprites/IconoMaster.png)
 
 
 > Unity version - 2022.1.0f1
 
-**Update 4/11/23:** Concurso de triples hecho en Unity para movil Android.
+**Update 4/11/23:** Clásico juego hecho en Unity.
